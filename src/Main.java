@@ -4,5 +4,6 @@ public class Main {
 	// write your code here
         System.out.println("Hi");
         System.out.println("Write for home");
+        System.out.println("Hi");
     }
 }
